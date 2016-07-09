@@ -107,6 +107,7 @@
      <Compile Include="Assets\TBS Framework\Scripts\Tutorial\GUIController.cs" />
      <Compile Include="Assets\TBS Framework\Scripts\Tutorial\SampleSquare.cs" />
      <Compile Include="Assets\TBS Framework\Scripts\Tutorial\SampleUnit.cs" />
+     <Compile Include="Assets\TBS Framework\Scripts\byalien.cs" />
      <None Include="Assets\TBS Framework\ReleaseNotes.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

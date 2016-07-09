@@ -55,5 +55,6 @@ public class MyOtherHexagon : Hexagon
 public enum GroundType
 {
     Land,
-    Water
+    Water,
+	Mine
 };

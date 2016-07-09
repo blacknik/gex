@@ -1,0 +1,10 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="OtherGuiController">
+			<method name="RestartLevel"/>
+		</type>
+		<type fullname="CellGrid">
+			<method name="EndTurn"/>
+		</type>
+	</assembly>
+</linker>

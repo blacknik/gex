@@ -15,12 +15,6 @@ public class Alien : Unit
 
 	private GameObject _enemy;
 
-	public void Buy(GameObject Aliens){
-		_enemy = Instantiate (Aliens) as GameObject;
-		_enemy.transform.position = new Vector3 (19, 25, -1);
-		CustomUnitGenerator.SpawnUnits ();
-
-	}
 
 
     public override bool IsCellMovableTo(Cell cell)
